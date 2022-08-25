@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja /Users/yujiahe123/CLionProjects/co-context
+-- Found Boost: /usr/local/lib/cmake/Boost-1.80.0/BoostConfig.cmake (found version "1.80.0")  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/yujiahe123/CLionProjects/co-context/cmake-build-debug
